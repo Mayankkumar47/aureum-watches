@@ -7,6 +7,8 @@ import { Footer } from './components/Footer';
 import { Navigation } from './components/Navigation';
 import { CustomCursor } from './components/CustomCursor';
 import { PageLoader } from './components/PageLoader';
+import { ImageWithFallback } from './components//common/ImageWithFallback';
+
 
 export default function App() {
   return (
